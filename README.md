@@ -65,6 +65,7 @@ cp -r Awesome-finance-skills/skills/* ~/.config/opencode/skills/
 | **alphaear-search** | Web search & local RAG | Jina / DDG / Baidu |
 
 ---
+- **[Level Open Finance Skills](https://github.com/levelcfo/open-finance-skills)** - 20 open-source accounting, month-end close, ASC 606/330, WIP schedule, and treasury verification skills with MCP server and interactive documentation at [levelcfo.com/finance-systems](https://levelcfo.com/finance-systems/).
 
 ### 🔧 Integration Guide
 
